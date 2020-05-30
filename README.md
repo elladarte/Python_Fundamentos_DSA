@@ -7,7 +7,7 @@
 
 ## Descrição
 
-[Data Science Academy](https://www.datascienceacademy.com.br) - Repositório dos Arquivos do Curso Gratuito Python Fundamentos para Análise de Dados
+### [Data Science Academy](https://www.datascienceacademy.com.br) - Repositório dos Arquivos do Curso Gratuito Python Fundamentos para Análise de Dados
 
 ## Lista de Conteudos abordados
 
